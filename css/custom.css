@@ -18,12 +18,18 @@
 #jumboheader {
   text-align: center;
   padding-bottom: 50px;
-  font-size: 36px;
+  font-size: 48px;
 }
 #jumbotext {
   font-size: 20px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+#jumbotext1 {
+  font-size: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+  text-align: center;
 }
 .col-md-12 {
 
@@ -31,4 +37,31 @@
 .text{
   padding-left: 30px;
   padding-right: 30px;
+}
+.btn-group btn-group-lg{
+  text-align: center;
+}
+body{
+  padding-bottom: 40px;
+}
+.subheading {
+  padding-left: 20px;
+}
+.group {
+  font-size: 14px;
+}
+#small {
+  font-size: 15px;
+}
+.small {
+  font-size: 24px;
+  color: black;
+}
+#q1 {
+
+}
+.course-displaysemester{
+text-align: center;
+font-size: 36px;
+font-weight: bold;
 }
