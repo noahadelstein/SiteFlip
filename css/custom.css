@@ -35,8 +35,8 @@
 
 }
 .text{
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 .btn-group btn-group-lg{
   text-align: center;
@@ -64,4 +64,24 @@ body{
 text-align: center;
 font-size: 36px;
 font-weight: bold;
+}
+#read {
+  text-align: center;
+  font-size: 24px;
+}
+.kristin {
+  padding-left: 5px;
+}
+#semester {
+  font-size: 18px;
+}
+.newshead{
+  font-size: 24px;
+}
+.center {
+  text-align: center;
+  font-size: 20px;
+}
+.img-responsive {
+
 }
